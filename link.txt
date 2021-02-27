@@ -1,2 +1,2 @@
 #Link Of Assignment
-<li>https://teachablemachine.withgoogle.com/models/1LnFR60IX/</li>
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
